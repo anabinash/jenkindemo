@@ -3,5 +3,6 @@ public class Employee {
         System.out.println("Employee class");
         System.out.println("Employee class demo");
         System.out.println("Swechchha Singh is a good student!");
+        System.out.println("I love you");
     }
 }
